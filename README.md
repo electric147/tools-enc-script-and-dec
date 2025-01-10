@@ -12,4 +12,6 @@ commant install:
 																																																																															
 `apt install git`
 																																																																															
-`git clone
+`git clone https://github.com/electric147/tools-enc-script-and-dec`
+
+`python tools.py`
