@@ -6,12 +6,17 @@ commant install:
 																																																																															
 `apt upgrade`
 																																																																															
-`apt install python2`
-																																																																															
-`apt install python3`
+`apt install python`
+
+`pip install cryptography`
+
+`python -m pip install --upgrade pip`
 																																																																															
 `apt install git`
 																																																																															
 `git clone https://github.com/electric147/tools-enc-script-and-dec`
+
+`cd Breadcrumbstools-enc-script-and-dec`
+
 
 `python tools.py`
