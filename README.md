@@ -3,6 +3,12 @@ tools ini bervungsi untu meng enkripsi sebua teks atau code dengan sangat aman d
 commant install:
 																																																																															
 `pkg update && pkg upgrade`
+
+`pkg install rust`
+
+`export PATH="$HOME/.cargo/bin:$PATH"`
+
+`pkg install clang libffi-dev openssl-dev python-dev`
 																																																																															
 `pkg install python`
 																																																																															
