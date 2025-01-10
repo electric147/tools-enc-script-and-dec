@@ -16,7 +16,7 @@ commant install:
 																																																																															
 `git clone https://github.com/electric147/tools-enc-script-and-dec`
 
-`cd Breadcrumbstools-enc-script-and-dec`
+`cd tools-enc-script-and-dec`
 
 
 `python tools.py`
