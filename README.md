@@ -2,18 +2,28 @@ tools ini bervungsi untu meng enkripsi sebua teks atau code dengan sangat aman d
 
 commant install:
 																																																																															
-`apt update`
+`pkg update && pkg upgrade`
 																																																																															
-`apt upgrade`
+`pkg install python`
 																																																																															
-`apt install python`
+`pkg install python-pip`
+
+`pkg install libffi openssl clang`
 
 `pip install cryptography`
+																																																																															
+`pip install cryptography --no-cache-dir`
 
-`python -m pip install --upgrade pip`
-																																																																															
-`apt install git`
-																																																																															
+
+`python --version`
+
+
+`pip --version`
+
+`pkg install python`
+																			
+`pkg install python-pip`
+																			
 `git clone https://github.com/electric147/tools-enc-script-and-dec`
 
 `cd tools-enc-script-and-dec`
