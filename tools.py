@@ -121,6 +121,7 @@ def main():
     private_key, public_key = generate_rsa_keys()
 
     while True:
+        print("Wallcome To Tools By Electric Jang Lupa Supcribe Yt ELECTRIC BLUE BOTZ")
         print("\nPilih metode enkripsi/dekripsi:")
         print("1. RSA Enkripsi/Dekripsi")
         print("2. AES Enkripsi/Dekripsi (CBC Mode)")
